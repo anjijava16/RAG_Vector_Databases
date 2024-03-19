@@ -53,3 +53,6 @@ Search Data: Run a few example queries with various goals in mind.
 1. https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/Using_vector_databases_for_embeddings_search.ipynb
 2. https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c
 3. https://github.com/openai/openai-cookbook/tree/main/examples/vector_databases
+4. https://www.singlestore.com/spaces/a-deep-dive-into-vector-databases/?category=webinar&utm_medium=email&utm_source=singlestore&utm_campaign=701UJ0000068nT7YAI&campaignid=701UJ0000068nT7YAI
+5. https://memsql.wistia.com/medias/wfofsx5ppf?utm_medium=email&utm_source=singlestore&utm_campaign=701UJ0000068nT7YAI&campaignid=701UJ0000068nT7YAI
+
