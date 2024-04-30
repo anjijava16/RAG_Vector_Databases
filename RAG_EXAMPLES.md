@@ -15,3 +15,9 @@
 1. https://github.com/singlestore-labs/spaces-notebooks/blob/master/notebooks/working-with-vector-data/notebook.ipynb
 1. https://github.com/singlestore-labs/spaces-notebooks/blob/master/notebooks/vector-database-basics/notebook.ipynb
 2. https://github.com/singlestore-labs/spaces-notebooks/blob/master/notebooks/rag-with-bedrock/notebook.ipynb
+
+
+# Astra DB (Cassandra DB)
+1. https://github.com/datastax/astra-db-recommendations-starter/blob/main/api/recommender_utils.py
+2. https://github.com/datastax/astra-db-recommendations-starter/tree/main
+   
