@@ -24,7 +24,7 @@
 2. https://github.com/datastax/astra-db-recommendations-starter/tree/main
 
 
-# Vector DB
+# Pinecone
 1. https://www.youtube.com/watch?v=0xyXYHMrAP0&t=11s
 2. https://github.com/pinecone-io/examples/blob/master/learn/generation/aws/sagemaker/sagemaker-huggingface-rag.ipynb
 3. https://github.com/pinecone-io/examples/blob/master/learn/generation/langchain/rag-chatbot.ipynb
