@@ -10,3 +10,8 @@
 # Zilliz Milivus Vector DB    
 6. https://zilliz.com/blog/finding-right-fit-embedding-support-for-RAG-in-zilliz-cloud-pipelines-from-voyageai-openai-and-oss
 7. https://github.com/milvus-io/bootcamp/blob/master/bootcamp/RAG/readthedocs_openai_emb3.ipynb
+
+# Singlestoredb
+1. https://github.com/singlestore-labs/spaces-notebooks/blob/master/notebooks/working-with-vector-data/notebook.ipynb
+1. https://github.com/singlestore-labs/spaces-notebooks/blob/master/notebooks/vector-database-basics/notebook.ipynb
+2. https://github.com/singlestore-labs/spaces-notebooks/blob/master/notebooks/rag-with-bedrock/notebook.ipynb
