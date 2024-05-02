@@ -44,4 +44,10 @@
 2. https://github.com/pinecone-io/databricks-streaming-demo
 3. https://github.com/pinecone-io/databricks-streaming-demo/blob/main/Delta%20Live%20Table%20-%20Streaming%20Embedding.ipynb
 
+# MongoDB (Atlas Vector Search)
+1. https://github.com/mongodb-developer/GenAI-Showcase/blob/main/notebooks/agents/agent_fireworks_ai_langchain_mongodb.ipynb
+
+# ClickHouse Vector DB Search
+1. https://github.com/dunithd/redpanda-clickhouse-vector-search/tree/main
+
 
