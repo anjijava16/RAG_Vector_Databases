@@ -60,3 +60,6 @@ Search Data: Run a few example queries with various goals in mind.
 4. https://www.singlestore.com/spaces/a-deep-dive-into-vector-databases/?category=webinar&utm_medium=email&utm_source=singlestore&utm_campaign=701UJ0000068nT7YAI&campaignid=701UJ0000068nT7YAI
 5. https://memsql.wistia.com/medias/wfofsx5ppf?utm_medium=email&utm_source=singlestore&utm_campaign=701UJ0000068nT7YAI&campaignid=701UJ0000068nT7YAI
 
+# IMP
+1. https://blog.newmathdata.com/using-python-langchain-to-work-with-aws-opensearch-vectorsearch-database-3ed927df0794
+
